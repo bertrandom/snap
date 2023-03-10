@@ -7,6 +7,7 @@ CLI tool for calling the Marvel Snap API using authorization tokens extracted fr
 Clone this repo somewhere and enter its directory:
 
 ```
+git clone git@github.com:bertrandom/snap.git
 cd snap
 ```
 
