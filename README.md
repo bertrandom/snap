@@ -20,6 +20,8 @@ Run the extraction script to retrieve your authorization tokens:
 ./extract.sh
 ```
 
+You will need [deno](https://deno.land/manual@v1.31.2/getting_started/installation) installed.
+
 ## usage
 
 ```
