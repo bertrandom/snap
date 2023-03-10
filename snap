@@ -1,0 +1,2 @@
+#!/bin/bash
+deno run --allow-net="us-west-2-cf.nvprod.snapgametech.com" --allow-read="./data/auth.json" snap.ts $1
